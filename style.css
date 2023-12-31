@@ -58,7 +58,7 @@ button:nth-child(1) {
 }
 
 button:nth-child(2) {
-    margin-right: -600px;
+    margin-left: 600px;
     background: white;
     color: #1a237e; /* Dark foreground color */
 }
